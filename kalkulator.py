@@ -1,3 +1,10 @@
+#2802414161 | Aryo Bismo Kuntjoro Jakti
+#2802500676 | Charis Surijakko
+#2802571376 | William Yahya Siagian
+#2802400710 | Tristan Vitorio Sinaga
+#2802405150 | Kayne Kusnadi
+
+
 def add(x, y):
     return x + y
 
