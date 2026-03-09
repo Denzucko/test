@@ -4,5 +4,5 @@ while True:
     if calculate == "keluar":
         print("Thanks You");
         break
-    hasil1 = eval(calculate)
-    print(hasil1)
+    hasil12 = eval(calculate)
+    print(hasil12)
